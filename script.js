@@ -330,13 +330,7 @@ const SITE = {
       "meta": "Investor HELOC \u00b7 Kansas City, MO"
     }
   ],
-  "confetti": [
-    "#a85428",
-    "#c67d4e",
-    "#f6e9df",
-    "#38271a",
-    "#87411d"
-  ]
+  "confetti": ["#10b981", "#34d399", "#f5b942", "#ffffff", "#1a2440"]
 };
 
 const ICONS = {
